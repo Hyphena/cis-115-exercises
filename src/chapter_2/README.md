@@ -31,7 +31,7 @@ calculates the number of acres in the tract.
 
 *Hint: Divide the amount entered by 43,560 to get the number of acres.*
 
-### 4. Total Purchase
+### 4. Total Purchase ✅
 
 ![Exercise 2.4 Solution](../../img/exercises/demo-2.4.png)
 
