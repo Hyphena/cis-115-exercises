@@ -70,12 +70,16 @@ tax, the county sales tax, the total sales tax, and the total of the sale
 *Hint: Use the value 0.025 to represent 2.5 percent, and 0.05 to represent
 5 percent.*
 
-### 7. Miles-per-Gallon
+### 7. Miles-per-Gallon ✅
+
+![Exercise 2.7 Solution](../../img/exercises/demo-2.7.png)
 
 A car’s miles-per-gallon (MPG) can be calculated with the following
 formula:
 
-$$\text{MPG}=\text{Miles driven}\div\text{Gallons of gas used}$$
+*MPG = Miles driven ÷ Gallons of gas used*
+
+<!-- $$\text{MPG}=\text{Miles driven}\div\text{Gallons of gas used}$$ -->
 
 Write a program that asks the user for the number of miles driven and the
 gallons of gas used. It should calculate the car's MPG and display the result.
