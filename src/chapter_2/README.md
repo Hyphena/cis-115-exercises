@@ -2,6 +2,8 @@
 
 ### 1. Personal Information ✅
 
+![Exercise 2.1 Solution](../../img/exercises/demo-2.1.png)
+
 Write a program that displays the following information:
 * Your name
 * Your address, with city, state, and ZIP
@@ -9,6 +11,8 @@ Write a program that displays the following information:
 * Your college major
 
 ### 2. Sales Prediction ✅
+
+![Exercise 2.2 Solution](../../img/exercises/demo-2.2.png)
 
 A company has determined that its annual profit is typically 23 percent
 of total sales. Write a program that asks the user to enter the projected
