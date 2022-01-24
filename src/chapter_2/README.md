@@ -21,7 +21,7 @@ that amount.
 
 *Hint: Use the value 0.23 to represent 23 percent.*
 
-### 3. Land Calculation
+### 3. Land Calculation ✅
 
 ![Exercise 2.3 Solution](../../img/exercises/demo-2.3.png)
 
