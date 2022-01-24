@@ -39,12 +39,16 @@ A customer in a store is purchasing five items. Write a program that asks
 for the price of each item, then displays the subtotal of the sale, the
 amount of sales tax, and the total. Assume the sales tax is 7 percent.
 
-### 5. Distance Traveled
+### 5. Distance Traveled ✅
+
+![Exercise 2.5 Solution](../../img/exercises/demo-2.5.png)
 
 Assuming there are no accidents or delays, the distance that a car travels
 down the interstate can be calculated with the following formula:
 
-$$\text{Distance}=\text{Speed}\times\text{Time}$$
+*Distance = Speed × Time*
+
+<!-- $$\text{Distance}=\text{Speed}\times\text{Time}$$ -->
 
 A car is traveling at 70 miles per hour. Write a program that displays the
 following:
