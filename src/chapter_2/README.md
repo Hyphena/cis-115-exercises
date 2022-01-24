@@ -84,7 +84,9 @@ formula:
 Write a program that asks the user for the number of miles driven and the
 gallons of gas used. It should calculate the car's MPG and display the result.
 
-### 8. Tip, Tax, and Total
+### 8. Tip, Tax, and Total ✅
+
+![Exercise 2.8 Solution](../../img/exercises/demo-2.8.png)
 
 Write a program that calculates the total amount of a meal purchased at a
 restaurant. The program should ask the user to enter the charge for the
