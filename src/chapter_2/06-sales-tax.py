@@ -1,7 +1,3 @@
-from itertools import count
-from tkinter import W
-
-
 STATE_RATE = 0.05
 COUNTY_RATE = 0.025
 purchase_amount = float(input('Please enter the amount paid: '))
