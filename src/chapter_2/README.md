@@ -56,7 +56,9 @@ following:
 * The distance the car will travel in 10 hours
 * The distance the car will travel in 15 hours
 
-### 6. Sales Tax
+### 6. Sales Tax ✅
+
+![Exercise 2.6 Solution](../../img/exercises/demo-2.6.png)
 
 Write a program that will ask the user to enter the amount of a purchase.
 The program should then compute the state and county sales tax. Assume
