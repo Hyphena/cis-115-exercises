@@ -100,7 +100,7 @@ tax. Display each of these amounts and the total.
 Write a program that converts Celsius temperatures to Fahrenheit
 temperatures. The formula is as follows:
 
-*F = (9/5)C + 32*
+*F = (9 ÷ 5)C + 32*
 
 <!-- $$F=\frac{9}{5}C+32$$ -->
 
@@ -121,7 +121,9 @@ a program that asks the user how many cookies he or she wants to make,
 then displays the number of cups of each ingredient needed for the
 specified number of cookies.
 
-### 11. Male and Female Percentages
+### 11. Male and Female Percentages ✅
+
+![Exercise 2.11 Solution](../../img/exercises/demo-2.11.png)
 
 Write a program that asks the user for the number of males and the number
 of females registered in a class. The program should display the
@@ -129,10 +131,12 @@ percentage of males and females in the class.
 
 *Hint: Suppose there are 8 males and 12 females in a class. There are 20
 students in the class. The percentage of males can be calculated as
-$8\div20=0.4$, or 40%. The percentage of females can be calculated as
-$12\div20=0.6$, or 60%.*
+*8 ÷ 20 = 0.4*, or 40%. The percentage of females can be calculated as
+*12 ÷ 20 = 0.6*, or 60%.*
 
-### 12. Stock Transaction Program
+### 12. Stock Transaction Program ✅
+
+![Exercise 2.12 Solution](../../img/exercises/demo-2.12.png)
 
 Last month, Joe purchased some stock in Acme Software, Inc. Here are the
 details of the purchase:
@@ -157,7 +161,9 @@ Write a program that displays the following information:
 paid his broker (both times). If this amount is positive, then Joe made a
 profit. If the amount is negative, then Joe lost money.
 
-### 13.  Planting  Grapevines
+### 13.  Planting  Grapevines ✅
+
+![Exercise 2.13 Solution](../../img/exercises/demo-2.13.png)
 
 A vineyard owner is planting several new rows of grapevines, and needs to
 know how many grapevines to plant in each row. She has determined that
@@ -166,13 +172,20 @@ formula to calculate the number of vines that will fit in the row, along
 with the trellis end-post assemblies that will need to be constructed at
 each end of the row:
 
-$$V=\frac{R-2E}{S}$$
+*V = (R - 2E) ÷ S*
+
+<!-- $$V=\frac{R-2E}{S}$$ -->
 
 The terms in the formula are:
+
 V is the number of grapevines that will fit in the row.
+
 R is the length of the row, in feet.
+
 E is the amount of space, in feet, used by an end-post assembly.
+
 S is the space between vines, in feet.
+
 Write a program that makes the calculation for the vineyard owner. The
 program should ask the user to input the following:
 * The length of the row, in feet
@@ -182,7 +195,9 @@ program should ask the user to input the following:
 Once the input data has been entered, the program should calculate and
 display the number of grapevines that will fit in the row.
 
-### 14. Compound  Interest
+### 14. Compound  Interest ✅
+
+![Exercise 2.14 Solution](../../img/exercises/demo-2.14.png)
 
 When a bank account pays compound interest, it pays interest not only on
 the principal amount that was deposited into the account, but also on the
@@ -191,15 +206,23 @@ money into a savings account, and let the account earn compound interest
 for a certain number of years. The formula for calculating the balance of
 the account after a specified number of years is:
 
-$$A=P(1+\frac{r}{n})^{nt}$$
+*A = P(1 + (r ÷ n))^nt*
+
+<!-- $$A=P(1+\frac{r}{n})^{nt}$$ -->
 
 The terms in the formula are:
+
 A is the amount of money in the account after the specified number of
 years.
+
 P is the principal amount that was originally deposited into the account.
+
 r is the annual interest rate.
+
 n is the number of times per year that the interest is compounded.
+
 t is the specified number of years.
+
 Write a program that makes the calculation for you. The program should ask the user to 
 input the following:
 * The amount of principal originally deposited into the account
@@ -214,4 +237,6 @@ of money that will be in the account after the specified number of years.
 ### 15. Turtle Graphics Drawings
 
 Use the turtle graphics library to write programs that reproduce each of the designs shown 
-in Figure 2-40.
+below:
+
+![A series of strange archaic shapes](../../img/exercises/exercise-2.15.png)
