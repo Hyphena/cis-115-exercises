@@ -93,12 +93,14 @@ restaurant. The program should ask the user to enter the charge for the
 food, then calculate the amounts of a 18 percent tip and 7 percent sales
 tax. Display each of these amounts and the total.
 
-### 9. Celsius to Fahrenheit Temperature Converter
+### 9. Celsius to Fahrenheit Temperature Converter ✅
 
 Write a program that converts Celsius temperatures to Fahrenheit
 temperatures. The formula is as follows:
 
-$$F=\frac{9}{5}C+32$$
+*F = (9/5)C + 32*
+
+<!-- $$F=\frac{9}{5}C+32$$ -->
 
 The program should ask the user to enter a temperature in Celsius, then
 display the temperature converted to Fahrenheit.
