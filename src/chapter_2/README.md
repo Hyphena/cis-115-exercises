@@ -95,6 +95,8 @@ tax. Display each of these amounts and the total.
 
 ### 9. Celsius to Fahrenheit Temperature Converter ✅
 
+![Exercise 2.9 Solution](../../img/exercises/demo-2.9.png)
+
 Write a program that converts Celsius temperatures to Fahrenheit
 temperatures. The formula is as follows:
 
@@ -105,7 +107,9 @@ temperatures. The formula is as follows:
 The program should ask the user to enter a temperature in Celsius, then
 display the temperature converted to Fahrenheit.
 
-### 10. Ingredient  Adjuster
+### 10. Ingredient  Adjuster ✅
+
+![Exercise 2.10 Solution](../../img/exercises/demo-2.10.png)
 
 A cookie recipe calls for the following ingredients:
 * 1.5 cups of sugar
